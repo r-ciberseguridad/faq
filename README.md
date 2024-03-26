@@ -1,13 +1,15 @@
-# faq
-Este repositorio sirve para poder colocar todas las preguntas frequentes de r/ciberseguridad, para poder crear documentacion como una comunidad.
-## Guía de Contribución para preguntas frequentes
+# FAQ
+Este repositorio sirve para poder colocar todas las preguntas frecuentes de r/ciberseguridad, para poder crear documentación como una comunidad.
+## Guía de Contribución para preguntas frecuentes
 
-1. Abrir un [issue](https://github.com/r-ciberseguridad/faq/issues). El título debe ser una pregunta que creas que deberia estar en r/ciberseguridad.
-3. Responder a la pregunta comentando en el issue. Si sientes que no sabes lo suficiente para responder, pero aun asi crees que deberia estar en el FAQ, include los posts donde viste esta pregunta. 
+1. Abrir un [issue](https://github.com/r-ciberseguridad/faq/issues) o crear un pull request. El título debe ser una pregunta que creas que debería estar en r/ciberseguridad.
+3. Responder a la pregunta comentando en el issue. Si sientes que no sabes lo suficiente para responder, pero aun así crees que debería estar en el FAQ, include los posts donde viste esta pregunta. 
 4. Un moderador revisará y proporcionará retroalimentación. Se pueden solicitar ediciones, etc.
 5. Una vez que la respuesta sea suficientemente buena, un moderador confirmará que estás licenciando tu respuesta bajo CC BY-NC-SA 4.0.
 6. Confirmar o negar que estás licenciando tu trabajo.
 7. Si es aceptado, un moderador creará los cambios relevantes en este repositorio de git y hará un PR que cierre tu problema, indicando que el cambio se fusionó en este repositorio CC BY-NC-SA 4.0 y puede ser incluido en un FAQ. Si se niega, la solicitud se cerrará y tu trabajo ni se agregará ni se considerará licenciado.
+
+** Nos aseguramos de compartir las credenciales de aquellos que crean documentación para que puedan tener reconocimiento. **
 
 # Licencia
 Todos los trabajos contribuidos están bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), que es una licencia de Creative Commons que estipula (entre muchas cosas):
