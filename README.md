@@ -9,7 +9,7 @@ Este repositorio sirve para poder colocar todas las preguntas frecuentes de r/ci
 6. Confirmar o negar que estás licenciando tu trabajo.
 7. Si es aceptado, un moderador creará los cambios relevantes en este repositorio de git y hará un PR que cierre tu problema, indicando que el cambio se fusionó en este repositorio CC BY-NC-SA 4.0 y puede ser incluido en un FAQ. Si se niega, la solicitud se cerrará y tu trabajo ni se agregará ni se considerará licenciado.
 
-** Nos aseguramos de compartir las credenciales de aquellos que crean documentación para que puedan tener reconocimiento. **
+**Nos aseguramos de compartir las credenciales de aquellos que crean documentación para que puedan tener reconocimiento.**
 
 # Licencia
 Todos los trabajos contribuidos están bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), que es una licencia de Creative Commons que estipula (entre muchas cosas):

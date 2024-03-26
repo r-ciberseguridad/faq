@@ -19,3 +19,5 @@ Esto no quita que aun hayan malentendidos con el concepto, como cuando ves que t
 Lamento decirte que técnicamente **no** es incorrecto el decir que hackear cuentas en redes sociales esta relacionado con ciberseguridad, pero es totalmente incorrecto hacer la suposición que  hackear = ciberseguridad. 
 
 El concepto de ciberseguridad es uno, pero las **formas** de aplicación de este concepto son, probablemente, infinitas. Volviendo al ejemplo de Fulanito, el saber como "hackear cuentas" es simplemente una **forma** que utilizamos en el campo para poder evaluar la seguridad de una aplicación web.  
+
+Así que de ahora en adelante, preguntate a ti mismo si de lo que estas hablando **es** ciberseguridad o es una **forma** de aplicarla.
