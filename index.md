@@ -5,10 +5,13 @@
 Acá podrás encontrar todas las preguntas frecuentes y comunes en [r/Ciberseguridad] (https://www.reddit.com/r/ciberseguridad/) Somos una comunidad de habla hispana dedicada a compartir noticias, guias, preguntas, y mas. Nuestra misión es crear un espacio donde cualquier persona pueda aprender sobre informática, redes, Linux, programación, y sobre todo ciberseguridad. 
 
 ## Conceptos Básicos 
- [Que es y que no es ciberseguridad?](https://www.reddit.com/r/ciberseguridad/wiki/index/quesiqueno/)
+ - [Que es y que no es ciberseguridad?](https://www.reddit.com/r/ciberseguridad/wiki/index/quesiqueno/)
  - conocimiento minimo 
  - que es un hacker
  - amenazas comunes de ciberseguridad
+
+## Preguntas Frecuentes
+
 
 ## Reglas
 1. Respeto Mutuo
