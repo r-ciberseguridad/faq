@@ -6,8 +6,8 @@ Acá podrás encontrar todas las preguntas frecuentes y comunes en [r/Cibersegur
 
 ## Conceptos Básicos 
  - [Que es y que no es ciberseguridad?](https://www.reddit.com/r/ciberseguridad/wiki/index/quesiqueno/)
- - conocimiento minimo 
- - que es un hacker
+ - [Conocimiento mínimo para comenzar](https://www.reddit.com/r/ciberseguridad/wiki/index/minimo_cs/) 
+ - [Que es un hacker?](https://www.reddit.com/r/ciberseguridad/wiki/index/wiki/que_es_hacker/)
  - amenazas comunes de ciberseguridad
 
 ## Preguntas Frecuentes
