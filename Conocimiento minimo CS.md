@@ -37,7 +37,7 @@ URLs útiles:
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [Cyber Security Expert roadmap](https://roadmap.sh/cyber-security)
 
-Para saber dónde pivotar en tu carrera o donde comenzar tu viaje, es crucial entender los diferentes departamentos que forman parte del "Departamento de Seguridad". Aquí se incluyen roles como:
+Para saber dónde pivotar en tu carrera o donde comenzar tu viaje, es crucial entender los diferentes departamentos que forman parte del "Departamento de Seguridad", esta lista puede variar dependendiendo de la organizacion. Aquí se incluyen roles como:
 
 - Comunicación y Seguridad de redes
 - Seguridad de Identidades
@@ -56,8 +56,38 @@ Todos estos sub-dominios aplican distintos conocimientos (como los que están en
 - Respuestas a incidentes informáticos (dentro de Security Operations)
 - Etc. 
 
+## Habilidades clave (opcional)
+
+Hay un set de habilidades que te ayudaran a destacar en, bueno, cualquier trabajo. Pero considero que estas habilidades te ayudaran mucho a poder potenciar y acelerar tu carrera. 
+
+### Habilidades Tecnicas
+
+Esto incluye conocimiento en redes, sistemas operativos, programacion, etc. Los profesionales deben ser capaces de configurar y gestionar herramientas de seguridad sin constante supervision. Estas habilidades tecnicas te daran un "plus" dentro de tu equipo y te ayudaran a obtener ese salario que tanto buscas. 
+
+### Habilidades Analiticas
+
+La capacidad de analizar datos y detectar patrones sospechosos es mas que vital. Esto te garantizara una buen procedimiento de investigacion y te ayudara a resolver problemas de manera mas eficaz. 
+
+### Habilidades Blandas 
+
+La comunicacion y trabajo en equipo son esenciales, ya que los profesionales de ciberseguridad a menudo deben explicar conceptos complejos y tecnicos a audiencias no tecnicas dentro de su organizacion. Estas mismas audiencias a veces son otro departamento en la organizacion con la cual los profesionales de ciberseguridad deben colaborar. 
+
+## Miscelaneo 
+
+Como puedes ver, hay un minimo de cosas que debes saber antes de decidir si quieres ser parte de esta carrera o no. Ya conociste los conceptos clave y las habilidades clave, pero aun quedan algunos topicos miselaneos que debemos tratar.
+
+### Desafios
+
+#### Tendencias futuras en ciberseguridad
+
+Las tecnologias emergentes como la inteligencia artificial, el aprendizaje automatico y la blockchain estan transformando la ciberseguridad. La existencia de tecnologias emergentes requiere el constante estudio e investigacion mientras trabajas. Este no es un tipo de trabajo en donde puedes relajarte y ganar buen dinero.
+
+#### Stress 
+
+Esto ya es opcional y mi opinion personal. Asegurate que haya un balance/equilibrio entre tu trabajo y tu vida. A veces no te das ni cuenta y tanta informacion te puede absorver a ti y tu tiempo. 
+
 ### En resumen
 
-> Preocupate de cubrir estos temas antes de saltar de lleno sin tener la información
+> Preocupate de cubrir estos temas antes de saltar de lleno.
 
  _Articulo hecho por: /u/CyberShellTech_
